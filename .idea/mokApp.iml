@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/mokApp/app" isTestSource="false" packagePrefix="App\" />
+      <sourceFolder url="file://$MODULE_DIR$/mokApp/tests" isTestSource="true" packagePrefix="Tests\" />
+      <excludeFolder url="file://$MODULE_DIR$/mokApp/vendor/beyondcode/laravel-dump-server" />
+      <excludeFolder url="file://$MODULE_DIR$/mokApp/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/mokApp/vendor/dnoegel/php-xdg-base-dir" />
+      <excludeFolder url="file://$MODULE_DIR$/mokApp/vendor/doctrine/inflector" />
+      <excludeFolder url="file://$MODULE_DIR$/mokApp/vendor/doctrine/instantiator" />
+      <excludeFolder url="file://$MODULE_DIR$/mokApp/vendor/doctrine/lexer" />
+      <excludeFolder url="file://$MODULE_DIR$/mokApp/vendor/dragonmantank/cron-expression" />
+      <excludeFolder url="file://$MODULE_DIR$/mokApp/vendor/egulias/email-validator" />
+      <excludeFolder url="file://$MODULE_DIR$/mokApp/vendor/erusev/parsedown" />
+      <excludeFolder url="file://$MODULE_DIR$/mokApp/vendor/fideloper/proxy" />
+      <excludeFolder url="file://$MODULE_DIR$/mokApp/vendor/filp/whoops" />
+      <excludeFolder url="file://$MODULE_DIR$/mokApp/vendor/fzaninotto/faker" />
+      <excludeFolder url="file://$MODULE_DIR$/mokApp/vendor/guzzlehttp/guzzle" />
+      <excludeFolder url="file://$MODULE_DIR$/mokApp/vendor/guzzlehttp/promises" />
+      <excludeFolder url="file://$MODULE_DIR$/mokApp/vendor/guzzlehttp/psr7" />
+      <excludeFolder url="file://$MODULE_DIR$/mokApp/vendor/hamcrest/hamcrest-php" />
+      <excludeFolder url="file://$MODULE_DIR$/mokApp/vendor/jakub-onderka/php-console-color" />
+      <excludeFolder url="file://$MODULE_DIR$/mokApp/vendor/jakub-onderka/php-console-highlighter" />
+      <excludeFolder url="file://$MODULE_DIR$/mokApp/vendor/laravel/framework" />
+      <excludeFolder url="file://$MODULE_DIR$/mokApp/vendor/laravel/nexmo-notification-channel" />
+      <excludeFolder url="file://$MODULE_DIR$/mokApp/vendor/laravel/slack-notification-channel" />
+      <excludeFolder url="file://$MODULE_DIR$/mokApp/vendor/laravel/tinker" />
+      <excludeFolder url="file://$MODULE_DIR$/mokApp/vendor/lcobucci/jwt" />
+      <excludeFolder url="file://$MODULE_DIR$/mokApp/vendor/league/flysystem" />
+      <excludeFolder url="file://$MODULE_DIR$/mokApp/vendor/mockery/mockery" />
+      <excludeFolder url="file://$MODULE_DIR$/mokApp/vendor/monolog/monolog" />
+      <excludeFolder url="file://$MODULE_DIR$/mokApp/vendor/myclabs/deep-copy" />
+      <excludeFolder url="file://$MODULE_DIR$/mokApp/vendor/nesbot/carbon" />
+      <excludeFolder url="file://$MODULE_DIR$/mokApp/vendor/nexmo/client" />
+      <excludeFolder url="file://$MODULE_DIR$/mokApp/vendor/nikic/php-parser" />
+      <excludeFolder url="file://$MODULE_DIR$/mokApp/vendor/nunomaduro/collision" />
+      <excludeFolder url="file://$MODULE_DIR$/mokApp/vendor/opis/closure" />
+      <excludeFolder url="file://$MODULE_DIR$/mokApp/vendor/paragonie/random_compat" />
+      <excludeFolder url="file://$MODULE_DIR$/mokApp/vendor/phar-io/manifest" />
+      <excludeFolder url="file://$MODULE_DIR$/mokApp/vendor/phar-io/version" />
+      <excludeFolder url="file://$MODULE_DIR$/mokApp/vendor/php-http/guzzle6-adapter" />
+      <excludeFolder url="file://$MODULE_DIR$/mokApp/vendor/php-http/httplug" />
+      <excludeFolder url="file://$MODULE_DIR$/mokApp/vendor/php-http/promise" />
+      <excludeFolder url="file://$MODULE_DIR$/mokApp/vendor/phpdocumentor/reflection-common" />
+      <excludeFolder url="file://$MODULE_DIR$/mokApp/vendor/phpdocumentor/reflection-docblock" />
+      <excludeFolder url="file://$MODULE_DIR$/mokApp/vendor/phpdocumentor/type-resolver" />
+      <excludeFolder url="file://$MODULE_DIR$/mokApp/vendor/phpspec/prophecy" />
+      <excludeFolder url="file://$MODULE_DIR$/mokApp/vendor/phpunit/php-code-coverage" />
+      <excludeFolder url="file://$MODULE_DIR$/mokApp/vendor/phpunit/php-file-iterator" />
+      <excludeFolder url="file://$MODULE_DIR$/mokApp/vendor/phpunit/php-text-template" />
+      <excludeFolder url="file://$MODULE_DIR$/mokApp/vendor/phpunit/php-timer" />
+      <excludeFolder url="file://$MODULE_DIR$/mokApp/vendor/phpunit/php-token-stream" />
+      <excludeFolder url="file://$MODULE_DIR$/mokApp/vendor/phpunit/phpunit" />
+      <excludeFolder url="file://$MODULE_DIR$/mokApp/vendor/psr/container" />
+      <excludeFolder url="file://$MODULE_DIR$/mokApp/vendor/psr/http-message" />
+      <excludeFolder url="file://$MODULE_DIR$/mokApp/vendor/psr/log" />
+      <excludeFolder url="file://$MODULE_DIR$/mokApp/vendor/psr/simple-cache" />
+      <excludeFolder url="file://$MODULE_DIR$/mokApp/vendor/psy/psysh" />
+      <excludeFolder url="file://$MODULE_DIR$/mokApp/vendor/ralouphie/getallheaders" />
+      <excludeFolder url="file://$MODULE_DIR$/mokApp/vendor/ramsey/uuid" />
+      <excludeFolder url="file://$MODULE_DIR$/mokApp/vendor/sebastian/code-unit-reverse-lookup" />
+      <excludeFolder url="file://$MODULE_DIR$/mokApp/vendor/sebastian/comparator" />
+      <excludeFolder url="file://$MODULE_DIR$/mokApp/vendor/sebastian/diff" />
+      <excludeFolder url="file://$MODULE_DIR$/mokApp/vendor/sebastian/environment" />
+      <excludeFolder url="file://$MODULE_DIR$/mokApp/vendor/sebastian/exporter" />
+      <excludeFolder url="file://$MODULE_DIR$/mokApp/vendor/sebastian/global-state" />
+      <excludeFolder url="file://$MODULE_DIR$/mokApp/vendor/sebastian/object-enumerator" />
+      <excludeFolder url="file://$MODULE_DIR$/mokApp/vendor/sebastian/object-reflector" />
+      <excludeFolder url="file://$MODULE_DIR$/mokApp/vendor/sebastian/recursion-context" />
+      <excludeFolder url="file://$MODULE_DIR$/mokApp/vendor/sebastian/resource-operations" />
+      <excludeFolder url="file://$MODULE_DIR$/mokApp/vendor/sebastian/version" />
+      <excludeFolder url="file://$MODULE_DIR$/mokApp/vendor/swiftmailer/swiftmailer" />
+      <excludeFolder url="file://$MODULE_DIR$/mokApp/vendor/symfony/console" />
+      <excludeFolder url="file://$MODULE_DIR$/mokApp/vendor/symfony/contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/mokApp/vendor/symfony/css-selector" />
+      <excludeFolder url="file://$MODULE_DIR$/mokApp/vendor/symfony/debug" />
+      <excludeFolder url="file://$MODULE_DIR$/mokApp/vendor/symfony/event-dispatcher" />
+      <excludeFolder url="file://$MODULE_DIR$/mokApp/vendor/symfony/finder" />
+      <excludeFolder url="file://$MODULE_DIR$/mokApp/vendor/symfony/http-foundation" />
+      <excludeFolder url="file://$MODULE_DIR$/mokApp/vendor/symfony/http-kernel" />
+      <excludeFolder url="file://$MODULE_DIR$/mokApp/vendor/symfony/polyfill-ctype" />
+      <excludeFolder url="file://$MODULE_DIR$/mokApp/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/mokApp/vendor/symfony/polyfill-php72" />
+      <excludeFolder url="file://$MODULE_DIR$/mokApp/vendor/symfony/process" />
+      <excludeFolder url="file://$MODULE_DIR$/mokApp/vendor/symfony/routing" />
+      <excludeFolder url="file://$MODULE_DIR$/mokApp/vendor/symfony/translation" />
+      <excludeFolder url="file://$MODULE_DIR$/mokApp/vendor/symfony/var-dumper" />
+      <excludeFolder url="file://$MODULE_DIR$/mokApp/vendor/theseer/tokenizer" />
+      <excludeFolder url="file://$MODULE_DIR$/mokApp/vendor/tijsverkoyen/css-to-inline-styles" />
+      <excludeFolder url="file://$MODULE_DIR$/mokApp/vendor/vlucas/phpdotenv" />
+      <excludeFolder url="file://$MODULE_DIR$/mokApp/vendor/webmozart/assert" />
+      <excludeFolder url="file://$MODULE_DIR$/mokApp/vendor/zendframework/zend-diactoros" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
